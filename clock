@@ -1,0 +1,11 @@
+package Timer;
+
+public class MainTimer {
+
+	public static void main(String[] args) {
+		 timerblueprint clockApp = new timerblueprint();
+		 
+
+	}
+
+}
